@@ -1,3 +1,5 @@
+# GameGO
+
 GameGO is a game distribution platform, similar to Steam, linked to a database and easily used with the help of a GUI.
 
 Features included in this project:
